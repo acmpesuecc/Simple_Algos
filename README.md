@@ -2,7 +2,7 @@
 Just a bunch of Algorithms!
 
 <h2>How do I contribute ?? </h2>  
-Check out the Contributing Guidelines to learn more!
+Check out the Contributing Guidelines in CONTRIBUTING.md to learn more!
 
 
 <h2> Is this Beginner Friendly ?? </h2>
