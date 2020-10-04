@@ -16,7 +16,7 @@ Below are some rules and we hope you enjoy contributing ! <br>
 5. Once done working on the issue , push your code to your forked repository.<br>
 6. Create a new Pull Request and add a small description showing what you have done.<br>
 7. Mention what Issue you have worked on. If the issue number is #3, you can mention "Closes #3" in the Pull Request description.<br>
-8.Submit your Pull Request.
+8. Submit your Pull Request.
 
 <br>
 We hope you enjoy contributing to our repository. Don't hesitate to contact any of the maintainers or ACM team about any problems!
