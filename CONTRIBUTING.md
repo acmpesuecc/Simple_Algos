@@ -12,7 +12,7 @@ Below are some rules and we hope you enjoy contributing ! <br>
 1. Fork this Repository.<br>
 2. Clone the forked repository to your computer.<br>
 3. Head to the issues tab and look for the one you want to work with.<br>
-4. Issues marked "hacktoberfest" and "Godd First Issue" are a great place to start!!.<br>
+4. Issues marked "hacktoberfest" and "Good First Issue" are a great place to start!!.<br>
 5. Once done working on the issue , push your code to your forked repository.<br>
 6. Create a new Pull Request and add a small description showing what you have done.<br>
 7. Mention what Issue you have worked on. If the issue number is #3, you can mention "Closes #3" in the Pull Request description.<br>
