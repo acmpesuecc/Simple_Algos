@@ -5,7 +5,7 @@
 It's just a Randomised Binary Search Tree . Each Node in a Treap has a key value ( BST Property ) and a Random priority value which follows the  Heap property (Max or Min) !!
 
 <br>
-<b> Functions to Implement assuming Max Heap Property. </b
+<b> Few Functions that can be implemented assuming Max Heap Property. </b
 
 <ol>
 
