@@ -3,7 +3,7 @@
 
 using namespace std;
 
-
+// Program to find Length of Longest Common Subsequence of 2 strings.
 
 int LCS(string A, string B, int m, int n)
 {
