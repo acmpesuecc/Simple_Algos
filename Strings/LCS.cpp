@@ -23,16 +23,14 @@ int LCS(string A, string B, int m, int n)
 
 int main()
 {
+	string op=LCS(A, B, A.size(), B.size())
 	string A = "HACKTOBER", B = "ACMPESUECC";
+	
+	cout << "The length of LCS is " << op <<"\n";
 
-	cout << "The length of LCS is " <<
-			LCS(A, B, A.size(), B.size())<<"\n";
 
-
-     A = "ABCDBAB", B = "BCDBAE";
-
-	cout << "The length of LCS is " <<
-			LCS(A, B, A.size(), B.size())<<"\n";
+     	A = "ABCDBAB", B = "BCDBAE";
+	cout << "The length of LCS is " << op <<"\n";
 
 
 	return 0;
