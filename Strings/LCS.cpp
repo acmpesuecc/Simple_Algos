@@ -24,14 +24,12 @@ int LCS(string A, string B, int m, int n)
 int main()
 {
 	string op=LCS(A, B, A.size(), B.size())
-	string A = "HACKTOBER", B = "ACMPESUECC";
 	
+	string A = "HACKTOBER", B = "ACMPESUECC";
 	cout << "The length of LCS is " << op <<"\n";
-
 
      	A = "ABCDBAB", B = "BCDBAE";
 	cout << "The length of LCS is " << op <<"\n";
-
 
 	return 0;
 }
