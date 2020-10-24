@@ -26,8 +26,8 @@ double expected_binomial(int n, double p)
 
 double nCr(int n,int r)
 {
-    double nr,dr;
-    nr=n,dr=r;
+    double nr=n;
+    double dr=r;
 
     for(int i=1;i<r;i++)
     {
